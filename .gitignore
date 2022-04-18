@@ -1,0 +1,16 @@
+cmake-build-debug
+CMakeCache.txt
+cmake_install.cmake
+arcade
+CMakeFiles
+configFile.txt
+.idea
+.vscode
+Makefile
+lib
+.cmake
+cmake_install.cmake
+Testing
+build.ninja
+conf/pseudo.conf
+conf/txt/pseudo.txt
